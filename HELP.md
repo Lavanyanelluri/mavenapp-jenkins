@@ -1,4 +1,4 @@
-# Getting Started Devops course with AWS
+# Getting Started Devops course with AWS by pythonlife
 
 ### Reference Documentation
 For further reference, please consider the following sections:
