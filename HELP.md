@@ -1,4 +1,4 @@
-# Getting Started Devops course.
+# Getting Started Devops course with aws
 
 ### Reference Documentation
 For further reference, please consider the following sections:
